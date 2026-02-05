@@ -1,0 +1,589 @@
+commodity,state,year,month,price
+Ajwan,Gujarat,2025,5,6330.0
+Alsandikai,Kerala,2025,5,3000.0
+Amaranthus,Gujarat,2025,5,1750.0
+Amaranthus,Kerala,2025,5,3094.1176470588234
+Amla(Nelli Kai),Kerala,2025,5,4533.333333333333
+Amphophalus,Kerala,2025,5,5918.181818181818
+Amranthas Red,Kerala,2025,5,1900.0
+Apple,Gujarat,2025,5,19500.0
+Apple,Haryana,2025,5,10044.444444444445
+Apple,Himachal Pradesh,2025,5,16042.857142857143
+Apple,Jammu and Kashmir,2025,5,10000.0
+Apple,Kerala,2025,5,20450.0
+Apple,Punjab,2025,5,10442.857142857143
+Apple,Rajasthan,2025,5,12000.0
+Apple,Uttar Pradesh,2025,5,9016.5625
+Apple,Uttrakhand,2025,5,9500.0
+Apricot(Jardalu/Khumani),Himachal Pradesh,2025,5,7900.0
+Apricot(Jardalu/Khumani),Punjab,2025,5,3000.0
+Arecanut(Betelnut/Supari),Kerala,2025,5,32000.0
+Arhar (Tur/Red Gram)(Whole),Gujarat,2025,5,6171.0
+Arhar Dal(Tur Dal),Uttar Pradesh,2025,5,10593.75
+Ashgourd,Kerala,2025,5,1800.0
+Bajra(Pearl Millet/Cumbu),Gujarat,2025,5,2525.0
+Bajra(Pearl Millet/Cumbu),Rajasthan,2025,5,2410.0
+Bajra(Pearl Millet/Cumbu),Uttar Pradesh,2025,5,2176.0
+Banana,Andhra Pradesh,2025,5,2934.285714285714
+Banana,Gujarat,2025,5,2675.0
+Banana,Haryana,2025,5,2545.4545454545455
+Banana,Himachal Pradesh,2025,5,4144.444444444444
+Banana,Jammu and Kashmir,2025,5,4925.0
+Banana,Kerala,2025,5,4646.875
+Banana,Punjab,2025,5,3011.1111111111113
+Banana,Rajasthan,2025,5,2350.0
+Banana,Tripura,2025,5,3400.0
+Banana,Uttar Pradesh,2025,5,2080.0
+Banana,Uttrakhand,2025,5,1693.3333333333333
+Banana - Green,Gujarat,2025,5,1375.0
+Banana - Green,Haryana,2025,5,1633.3333333333333
+Banana - Green,Kerala,2025,5,4752.631578947368
+Banana - Green,Odisha,2025,5,2966.6666666666665
+Banana - Green,Telangana,2025,5,1700.0
+Banana - Green,Uttar Pradesh,2025,5,1594.4444444444443
+Barley (Jau),Rajasthan,2025,5,2205.75
+Barley (Jau),Uttar Pradesh,2025,5,2245.0
+Beans,Kerala,2025,5,7350.0
+Beans,Nagaland,2025,5,8100.0
+Beans,Odisha,2025,5,6800.0
+Beans,Uttrakhand,2025,5,500.0
+Beetroot,Gujarat,2025,5,1600.0
+Beetroot,Himachal Pradesh,2025,5,3566.6666666666665
+Beetroot,Kerala,2025,5,4100.0
+Beetroot,Odisha,2025,5,4000.0
+Beetroot,Punjab,2025,5,1700.0
+Beetroot,Telangana,2025,5,1787.5
+Bengal Gram Dal (Chana Dal),Uttar Pradesh,2025,5,7630.0
+Bengal Gram(Gram)(Whole),Gujarat,2025,5,5394.0
+Bengal Gram(Gram)(Whole),Rajasthan,2025,5,5267.333333333333
+Bengal Gram(Gram)(Whole),Uttar Pradesh,2025,5,6588.333333333333
+Bhindi(Ladies Finger),Gujarat,2025,5,2381.25
+Bhindi(Ladies Finger),Haryana,2025,5,1920.8333333333333
+Bhindi(Ladies Finger),Himachal Pradesh,2025,5,3200.0
+Bhindi(Ladies Finger),Jammu and Kashmir,2025,5,2925.0
+Bhindi(Ladies Finger),Kerala,2025,5,3304.1666666666665
+Bhindi(Ladies Finger),Odisha,2025,5,3558.3333333333335
+Bhindi(Ladies Finger),Punjab,2025,5,2460.0
+Bhindi(Ladies Finger),Rajasthan,2025,5,2225.0
+Bhindi(Ladies Finger),Telangana,2025,5,3183.3333333333335
+Bhindi(Ladies Finger),Tripura,2025,5,3325.0
+Bhindi(Ladies Finger),Uttar Pradesh,2025,5,1429.0
+Bhindi(Ladies Finger),Uttrakhand,2025,5,1520.0
+Bhindi(Ladies Finger),West Bengal,2025,5,1450.0
+Bitter gourd,Gujarat,2025,5,3583.3333333333335
+Bitter gourd,Haryana,2025,5,1857.142857142857
+Bitter gourd,Himachal Pradesh,2025,5,2868.75
+Bitter gourd,Jammu and Kashmir,2025,5,2175.0
+Bitter gourd,Kerala,2025,5,6471.428571428572
+Bitter gourd,Odisha,2025,5,3475.0
+Bitter gourd,Punjab,2025,5,1863.6363636363637
+Bitter gourd,Rajasthan,2025,5,1825.0
+Bitter gourd,Telangana,2025,5,3287.5
+Bitter gourd,Tripura,2025,5,5583.333333333333
+Bitter gourd,Uttar Pradesh,2025,5,1488.125
+Bitter gourd,Uttrakhand,2025,5,1540.0
+Bitter gourd,West Bengal,2025,5,2158.3333333333335
+Black Gram (Urd Beans)(Whole),Rajasthan,2025,5,6300.0
+Black Gram Dal (Urd Dal),Uttar Pradesh,2025,5,10150.0
+Black pepper,Kerala,2025,5,70125.0
+Bottle gourd,Gujarat,2025,5,1250.0
+Bottle gourd,Haryana,2025,5,962.5
+Bottle gourd,Himachal Pradesh,2025,5,1583.3333333333333
+Bottle gourd,Jammu and Kashmir,2025,5,1175.0
+Bottle gourd,Kerala,2025,5,2183.3333333333335
+Bottle gourd,Odisha,2025,5,1700.0
+Bottle gourd,Punjab,2025,5,1028.75
+Bottle gourd,Rajasthan,2025,5,900.0
+Bottle gourd,Telangana,2025,5,700.0
+Bottle gourd,Uttar Pradesh,2025,5,1014.7727272727273
+Bottle gourd,Uttrakhand,2025,5,983.3333333333334
+Brinjal,Gujarat,2025,5,1921.4285714285713
+Brinjal,Haryana,2025,5,1311.111111111111
+Brinjal,Himachal Pradesh,2025,5,2011.111111111111
+Brinjal,Jammu and Kashmir,2025,5,2250.0
+Brinjal,Kerala,2025,5,3000.0
+Brinjal,Odisha,2025,5,2805.0
+Brinjal,Punjab,2025,5,1414.5454545454545
+Brinjal,Rajasthan,2025,5,1000.0
+Brinjal,Telangana,2025,5,1975.0
+Brinjal,Tripura,2025,5,2325.0
+Brinjal,Uttar Pradesh,2025,5,1163.090909090909
+Brinjal,Uttrakhand,2025,5,975.0
+Brinjal,West Bengal,2025,5,3171.4285714285716
+Cabbage,Gujarat,2025,5,1090.0
+Cabbage,Haryana,2025,5,828.5714285714286
+Cabbage,Himachal Pradesh,2025,5,1111.111111111111
+Cabbage,Jammu and Kashmir,2025,5,1075.0
+Cabbage,Kerala,2025,5,2500.0
+Cabbage,Nagaland,2025,5,4100.0
+Cabbage,Odisha,2025,5,2160.0
+Cabbage,Punjab,2025,5,650.0
+Cabbage,Rajasthan,2025,5,625.0
+Cabbage,Telangana,2025,5,1237.5
+Cabbage,Uttar Pradesh,2025,5,1178.2857142857142
+Cabbage,Uttrakhand,2025,5,550.0
+Cabbage,West Bengal,2025,5,1750.0
+Capsicum,Gujarat,2025,5,3000.0
+Capsicum,Haryana,2025,5,1966.6666666666667
+Capsicum,Himachal Pradesh,2025,5,3061.1111111111113
+Capsicum,Jammu and Kashmir,2025,5,2975.0
+Capsicum,Kerala,2025,5,6225.0
+Capsicum,Punjab,2025,5,1972.7272727272727
+Capsicum,Rajasthan,2025,5,2125.0
+Capsicum,Telangana,2025,5,3900.0
+Capsicum,Uttar Pradesh,2025,5,2760.0
+Capsicum,Uttrakhand,2025,5,3900.0
+Carrot,Gujarat,2025,5,1875.0
+Carrot,Haryana,2025,5,1500.0
+Carrot,Himachal Pradesh,2025,5,2125.0
+Carrot,Jammu and Kashmir,2025,5,1825.0
+Carrot,Kerala,2025,5,3810.0
+Carrot,Odisha,2025,5,3275.0
+Carrot,Punjab,2025,5,1500.0
+Carrot,Telangana,2025,5,2525.0
+Carrot,Uttrakhand,2025,5,983.3333333333334
+Carrot,West Bengal,2025,5,3800.0
+Cashewnuts,Odisha,2025,5,12000.0
+Castor Seed,Gujarat,2025,5,5910.0
+Cauliflower,Gujarat,2025,5,3110.0
+Cauliflower,Haryana,2025,5,1957.142857142857
+Cauliflower,Himachal Pradesh,2025,5,5006.25
+Cauliflower,Jammu and Kashmir,2025,5,3250.0
+Cauliflower,Kerala,2025,5,3853.3333333333335
+Cauliflower,Odisha,2025,5,2945.0
+Cauliflower,Punjab,2025,5,2607.1428571428573
+Cauliflower,Rajasthan,2025,5,1775.0
+Cauliflower,Telangana,2025,5,2775.0
+Cauliflower,Uttar Pradesh,2025,5,1298.0
+Cauliflower,Uttrakhand,2025,5,1433.3333333333333
+Cherry,Himachal Pradesh,2025,5,15250.0
+Chikoos(Sapota),Haryana,2025,5,2237.5
+Chikoos(Sapota),Kerala,2025,5,3400.0
+Chikoos(Sapota),Punjab,2025,5,2500.0
+Chikoos(Sapota),Rajasthan,2025,5,2750.0
+Cluster beans,Gujarat,2025,5,4583.333333333333
+Cluster beans,Haryana,2025,5,3000.0
+Cluster beans,Kerala,2025,5,4600.0
+Cluster beans,Rajasthan,2025,5,3500.0
+Cluster beans,Telangana,2025,5,3187.5
+Coconut,Kerala,2025,5,6250.0
+Coconut Oil,Kerala,2025,5,30250.0
+Coconut Seed,Kerala,2025,5,6466.666666666667
+Colacasia,Haryana,2025,5,2800.0
+Colacasia,Himachal Pradesh,2025,5,5112.5
+Colacasia,Kerala,2025,5,6072.727272727273
+Colacasia,Odisha,2025,5,2100.0
+Colacasia,Telangana,2025,5,3583.3333333333335
+Colacasia,Uttar Pradesh,2025,5,1300.0
+Coriander(Leaves),Gujarat,2025,5,2712.5
+Coriander(Leaves),Haryana,2025,5,2200.0
+Coriander(Leaves),Himachal Pradesh,2025,5,4685.714285714285
+Coriander(Leaves),Jammu and Kashmir,2025,5,2250.0
+Coriander(Leaves),Kerala,2025,5,7250.0
+Coriander(Leaves),Punjab,2025,5,3800.0
+Coriander(Leaves),Rajasthan,2025,5,1250.0
+Corriander seed,Gujarat,2025,5,6530.0
+Corriander seed,Rajasthan,2025,5,6800.0
+Cotton,Andhra Pradesh,2025,5,7521.0
+Cotton,Gujarat,2025,5,5825.0
+Cotton,Odisha,2025,5,7000.0
+Cotton,Telangana,2025,5,6800.0
+Cowpea (Lobia/Karamani),Kerala,2025,5,2400.0
+Cowpea(Veg),Gujarat,2025,5,4625.0
+Cowpea(Veg),Kerala,2025,5,3984.2105263157896
+Cowpea(Veg),Tripura,2025,5,3683.3333333333335
+Cucumbar(Kheera),Gujarat,2025,5,1625.0
+Cucumbar(Kheera),Haryana,2025,5,1205.0
+Cucumbar(Kheera),Himachal Pradesh,2025,5,1605.5555555555557
+Cucumbar(Kheera),Jammu and Kashmir,2025,5,1350.0
+Cucumbar(Kheera),Kerala,2025,5,2475.0
+Cucumbar(Kheera),Odisha,2025,5,3300.0
+Cucumbar(Kheera),Punjab,2025,5,1004.1176470588235
+Cucumbar(Kheera),Rajasthan,2025,5,1025.0
+Cucumbar(Kheera),Telangana,2025,5,1662.5
+Cucumbar(Kheera),Tripura,2025,5,3700.0
+Cucumbar(Kheera),Uttar Pradesh,2025,5,1031.3636363636363
+Cucumbar(Kheera),Uttrakhand,2025,5,900.0
+Cucumbar(Kheera),West Bengal,2025,5,2800.0
+Cummin Seed(Jeera),Gujarat,2025,5,19875.0
+Cummin Seed(Jeera),Rajasthan,2025,5,18966.666666666668
+Drumstick,Gujarat,2025,5,1883.3333333333333
+Drumstick,Kerala,2025,5,7525.0
+Drumstick,Odisha,2025,5,5800.0
+Drumstick,Telangana,2025,5,2250.0
+Dry Chillies,Rajasthan,2025,5,16750.0
+Dry Chillies,Telangana,2025,5,8500.0
+Elephant Yam (Suran),Gujarat,2025,5,5750.0
+Elephant Yam (Suran),Kerala,2025,5,5433.333333333333
+Field Pea,Kerala,2025,5,2500.0
+Field Pea,Punjab,2025,5,6200.0
+Field Pea,Telangana,2025,5,5916.666666666667
+Firewood,Uttar Pradesh,2025,5,383.3333333333333
+Fish,Odisha,2025,5,18500.0
+Fish,Tripura,2025,5,23950.0
+Fish,West Bengal,2025,5,17800.0
+French Beans (Frasbean),Gujarat,2025,5,8500.0
+French Beans (Frasbean),Himachal Pradesh,2025,5,6600.0
+French Beans (Frasbean),Kerala,2025,5,8020.0
+French Beans (Frasbean),Punjab,2025,5,6500.0
+French Beans (Frasbean),Telangana,2025,5,8187.5
+French Beans (Frasbean),Uttrakhand,2025,5,2800.0
+Garlic,Gujarat,2025,5,10250.0
+Garlic,Haryana,2025,5,9500.0
+Garlic,Himachal Pradesh,2025,5,9725.0
+Garlic,Jammu and Kashmir,2025,5,6500.0
+Garlic,Kerala,2025,5,12675.0
+Garlic,Odisha,2025,5,6000.0
+Garlic,Punjab,2025,5,6275.0
+Garlic,Rajasthan,2025,5,7100.0
+Garlic,Telangana,2025,5,4000.0
+Garlic,Tripura,2025,5,8100.0
+Garlic,Uttar Pradesh,2025,5,5517.5
+Garlic,West Bengal,2025,5,9000.0
+Ginger(Dry),Haryana,2025,5,6000.0
+Ginger(Dry),Kerala,2025,5,30500.0
+Ginger(Dry),Odisha,2025,5,4000.0
+Ginger(Dry),Punjab,2025,5,4500.0
+Ginger(Dry),West Bengal,2025,5,5800.0
+Ginger(Green),Gujarat,2025,5,2862.5
+Ginger(Green),Haryana,2025,5,5266.666666666667
+Ginger(Green),Himachal Pradesh,2025,5,6533.333333333333
+Ginger(Green),Jammu and Kashmir,2025,5,5250.0
+Ginger(Green),Kerala,2025,5,5776.470588235294
+Ginger(Green),Punjab,2025,5,4200.0
+Ginger(Green),Rajasthan,2025,5,3550.0
+Ginger(Green),Tripura,2025,5,5616.666666666667
+Ginger(Green),Uttar Pradesh,2025,5,4146.875
+Ginger(Green),Uttrakhand,2025,5,3800.0
+Grapes,Himachal Pradesh,2025,5,10450.0
+Grapes,Kerala,2025,5,6600.0
+Grapes,Punjab,2025,5,6866.666666666667
+Grapes,Rajasthan,2025,5,6000.0
+Green Avare (W),Kerala,2025,5,7000.0
+Green Chilli,Gujarat,2025,5,2835.714285714286
+Green Chilli,Haryana,2025,5,2366.6666666666665
+Green Chilli,Himachal Pradesh,2025,5,3425.0
+Green Chilli,Jammu and Kashmir,2025,5,1900.0
+Green Chilli,Kerala,2025,5,4127.777777777777
+Green Chilli,Nagaland,2025,5,16100.0
+Green Chilli,Odisha,2025,5,4533.333333333333
+Green Chilli,Punjab,2025,5,1964.375
+Green Chilli,Rajasthan,2025,5,1650.0
+Green Chilli,Telangana,2025,5,3137.5
+Green Chilli,Tripura,2025,5,4712.5
+Green Chilli,Uttar Pradesh,2025,5,2077.608695652174
+Green Chilli,Uttrakhand,2025,5,1177.6666666666667
+Green Chilli,West Bengal,2025,5,4275.0
+Green Gram (Moong)(Whole),Gujarat,2025,5,7250.0
+Green Gram (Moong)(Whole),Rajasthan,2025,5,6800.0
+Green Gram (Moong)(Whole),Uttar Pradesh,2025,5,8725.0
+Green Gram Dal (Moong Dal),West Bengal,2025,5,10500.0
+Green Peas,Rajasthan,2025,5,3500.0
+Ground Nut Seed,Gujarat,2025,5,5930.0
+Groundnut,Andhra Pradesh,2025,5,6054.5
+Groundnut,Gujarat,2025,5,5155.0
+Groundnut pods (raw),Gujarat,2025,5,3900.0
+Guar,Gujarat,2025,5,4850.0
+Guar,Rajasthan,2025,5,4572.5
+Guar Seed(Cluster Beans Seed),Gujarat,2025,5,4400.0
+Guar Seed(Cluster Beans Seed),Rajasthan,2025,5,4742.5
+Guava,Himachal Pradesh,2025,5,10450.0
+Guava,Kerala,2025,5,5700.0
+Guava,Punjab,2025,5,3000.0
+Guava,West Bengal,2025,5,8200.0
+Gur(Jaggery),Andhra Pradesh,2025,5,3500.0
+Gur(Jaggery),Uttar Pradesh,2025,5,3420.0
+Indian Beans (Seam),Gujarat,2025,5,5000.0
+Indian Beans (Seam),Jammu and Kashmir,2025,5,8500.0
+Indian Beans (Seam),Kerala,2025,5,7500.0
+Indian Beans (Seam),Tripura,2025,5,3800.0
+Isabgul (Psyllium),Rajasthan,2025,5,10350.0
+Jack Fruit,Himachal Pradesh,2025,5,3500.0
+Jack Fruit,Uttar Pradesh,2025,5,1860.0
+Jack Fruit,Uttrakhand,2025,5,1650.0
+Jowar(Sorghum),Gujarat,2025,5,3316.6666666666665
+Jute,West Bengal,2025,5,6025.0
+Kabuli Chana(Chickpeas-White),Gujarat,2025,5,10065.0
+Karbuja(Musk Melon),Haryana,2025,5,1250.0
+Karbuja(Musk Melon),Himachal Pradesh,2025,5,2293.75
+Karbuja(Musk Melon),Jammu and Kashmir,2025,5,1100.0
+Karbuja(Musk Melon),Madhya Pradesh,2025,5,550.0
+Karbuja(Musk Melon),Punjab,2025,5,1588.3333333333333
+Karbuja(Musk Melon),Rajasthan,2025,5,1750.0
+Karbuja(Musk Melon),Uttar Pradesh,2025,5,1832.5
+Karbuja(Musk Melon),Uttrakhand,2025,5,1266.6666666666667
+Kartali (Kantola),Tripura,2025,5,5200.0
+Knool Khol,Jammu and Kashmir,2025,5,1100.0
+Kulthi(Horse Gram),Rajasthan,2025,5,5325.0
+Leafy Vegetable,Gujarat,2025,5,1250.0
+Leafy Vegetable,Kerala,2025,5,6500.0
+Leafy Vegetable,Telangana,2025,5,2000.0
+Lemon,Andhra Pradesh,2025,5,1800.0
+Lemon,Gujarat,2025,5,5520.0
+Lemon,Haryana,2025,5,8383.333333333334
+Lemon,Himachal Pradesh,2025,5,9912.5
+Lemon,Jammu and Kashmir,2025,5,8500.0
+Lemon,Kerala,2025,5,9662.5
+Lemon,Odisha,2025,5,3800.0
+Lemon,Punjab,2025,5,5900.0
+Lemon,Rajasthan,2025,5,5500.0
+Lemon,Uttar Pradesh,2025,5,6983.0
+Lemon,Uttrakhand,2025,5,6750.0
+Lentil (Masur)(Whole),Rajasthan,2025,5,5671.0
+Lentil (Masur)(Whole),Uttar Pradesh,2025,5,6508.75
+Lentil (Masur)(Whole),West Bengal,2025,5,9700.0
+Lime,Kerala,2025,5,9200.0
+Lime,Punjab,2025,5,8650.0
+Lime,Rajasthan,2025,5,9000.0
+Lime,Uttrakhand,2025,5,9500.0
+Linseed,Rajasthan,2025,5,6800.0
+Little gourd (Kundru),Gujarat,2025,5,2875.0
+Little gourd (Kundru),Kerala,2025,5,3566.6666666666665
+Little gourd (Kundru),Odisha,2025,5,2500.0
+Little gourd (Kundru),Punjab,2025,5,750.0
+Long Melon(Kakri),Haryana,2025,5,1000.0
+Long Melon(Kakri),Kerala,2025,5,5100.0
+Long Melon(Kakri),Punjab,2025,5,1130.0
+Maize,Andhra Pradesh,2025,5,2300.0
+Maize,Gujarat,2025,5,2122.5
+Maize,Rajasthan,2025,5,2290.0
+Maize,Telangana,2025,5,2100.0
+Maize,Uttar Pradesh,2025,5,2257.5
+Mango,Gujarat,2025,5,3980.0
+Mango,Haryana,2025,5,4845.454545454545
+Mango,Himachal Pradesh,2025,5,6272.727272727273
+Mango,Jammu and Kashmir,2025,5,5616.666666666667
+Mango,Kerala,2025,5,4766.666666666667
+Mango,Odisha,2025,5,2900.0
+Mango,Punjab,2025,5,5514.285714285715
+Mango,Rajasthan,2025,5,4875.0
+Mango,Telangana,2025,5,1400.0
+Mango,Uttar Pradesh,2025,5,3900.0
+Mango,Uttrakhand,2025,5,2900.0
+Mango (Raw-Ripe),Gujarat,2025,5,3250.0
+Mango (Raw-Ripe),Haryana,2025,5,2150.0
+Mango (Raw-Ripe),Kerala,2025,5,3571.4285714285716
+Mango (Raw-Ripe),Odisha,2025,5,2000.0
+Mango (Raw-Ripe),Rajasthan,2025,5,1500.0
+Mashrooms,Himachal Pradesh,2025,5,15500.0
+Mashrooms,Jammu and Kashmir,2025,5,10500.0
+Masur Dal,Uttar Pradesh,2025,5,7763.333333333333
+Methi Seeds,Rajasthan,2025,5,4505.0
+Methi(Leaves),Gujarat,2025,5,3250.0
+Mint(Pudina),Kerala,2025,5,6500.0
+Mint(Pudina),Punjab,2025,5,2500.0
+Mousambi(Sweet Lime),Andhra Pradesh,2025,5,2500.0
+Mousambi(Sweet Lime),Haryana,2025,5,3716.6666666666665
+Mousambi(Sweet Lime),Himachal Pradesh,2025,5,6242.857142857143
+Mousambi(Sweet Lime),Jammu and Kashmir,2025,5,5050.0
+Mousambi(Sweet Lime),Kerala,2025,5,5700.0
+Mousambi(Sweet Lime),Punjab,2025,5,4460.0
+Mousambi(Sweet Lime),Rajasthan,2025,5,3800.0
+Mousambi(Sweet Lime),Uttar Pradesh,2025,5,3249.5
+Mousambi(Sweet Lime),Uttrakhand,2025,5,3850.0
+Mustard,Gujarat,2025,5,5523.333333333333
+Mustard,Rajasthan,2025,5,6040.833333333333
+Mustard,Uttar Pradesh,2025,5,5890.0
+Mustard,West Bengal,2025,5,6050.0
+Mustard Oil,West Bengal,2025,5,15850.0
+Onion,Gujarat,2025,5,1212.5
+Onion,Haryana,2025,5,1141.0
+Onion,Himachal Pradesh,2025,5,1855.5555555555557
+Onion,Jammu and Kashmir,2025,5,1250.0
+Onion,Kerala,2025,5,2996.296296296296
+Onion,Madhya Pradesh,2025,5,600.0
+Onion,Odisha,2025,5,1800.0
+Onion,Punjab,2025,5,1468.75
+Onion,Rajasthan,2025,5,1093.75
+Onion,Telangana,2025,5,1383.3333333333333
+Onion,Tripura,2025,5,2450.0
+Onion,Uttar Pradesh,2025,5,1364.7297297297298
+Onion,Uttrakhand,2025,5,1708.3333333333333
+Onion,West Bengal,2025,5,1616.6666666666667
+Onion Green,Gujarat,2025,5,2250.0
+Orange,Kerala,2025,5,9633.333333333334
+Orange,Uttar Pradesh,2025,5,3700.0
+Orange,Uttrakhand,2025,5,2900.0
+Paddy(Dhan)(Basmati),Uttar Pradesh,2025,5,2300.0
+Paddy(Dhan)(Common),Andhra Pradesh,2025,5,2400.0
+Paddy(Dhan)(Common),Gujarat,2025,5,1965.0
+Paddy(Dhan)(Common),Odisha,2025,5,2300.0
+Paddy(Dhan)(Common),Rajasthan,2025,5,3100.0
+Paddy(Dhan)(Common),Telangana,2025,5,2298.0
+Paddy(Dhan)(Common),Uttar Pradesh,2025,5,2214.0
+Paddy(Dhan)(Common),West Bengal,2025,5,2310.0
+Papaya,Himachal Pradesh,2025,5,4037.5
+Papaya,Jammu and Kashmir,2025,5,4250.0
+Papaya,Kerala,2025,5,4000.0
+Papaya,Punjab,2025,5,2983.3333333333335
+Papaya,Rajasthan,2025,5,2750.0
+Papaya,Uttar Pradesh,2025,5,2702.8
+Papaya,Uttrakhand,2025,5,2130.0
+Papaya (Raw),Gujarat,2025,5,900.0
+Papaya (Raw),Kerala,2025,5,2900.0
+Papaya (Raw),Odisha,2025,5,1500.0
+Papaya (Raw),Tripura,2025,5,1800.0
+Peach,Punjab,2025,5,3900.0
+Peach,Uttrakhand,2025,5,4250.0
+Peas Wet,Gujarat,2025,5,8750.0
+Peas Wet,Haryana,2025,5,6166.666666666667
+Peas Wet,Himachal Pradesh,2025,5,7400.0
+Peas Wet,Jammu and Kashmir,2025,5,8500.0
+Peas Wet,Punjab,2025,5,3950.0
+Peas cod,Gujarat,2025,5,9500.0
+Peas cod,Himachal Pradesh,2025,5,7500.0
+Peas(Dry),Uttar Pradesh,2025,5,3316.6666666666665
+Pegeon Pea (Arhar Fali),Gujarat,2025,5,8000.0
+Pigs,Tripura,2025,5,5200.0
+Pineapple,Himachal Pradesh,2025,5,4766.666666666667
+Pineapple,Jammu and Kashmir,2025,5,3750.0
+Pineapple,Kerala,2025,5,4011.1111111111113
+Pineapple,Punjab,2025,5,5000.0
+Pineapple,Rajasthan,2025,5,4500.0
+Plum,Himachal Pradesh,2025,5,8000.0
+Plum,Punjab,2025,5,7800.0
+Pointed gourd (Parval),Gujarat,2025,5,3800.0
+Pointed gourd (Parval),Haryana,2025,5,2000.0
+Pointed gourd (Parval),Odisha,2025,5,3657.1428571428573
+Pointed gourd (Parval),Tripura,2025,5,5837.5
+Pointed gourd (Parval),Uttar Pradesh,2025,5,2232.5
+Pointed gourd (Parval),Uttrakhand,2025,5,2500.0
+Pointed gourd (Parval),West Bengal,2025,5,1600.0
+Pomegranate,Haryana,2025,5,6750.0
+Pomegranate,Himachal Pradesh,2025,5,10942.857142857143
+Pomegranate,Jammu and Kashmir,2025,5,9000.0
+Pomegranate,Kerala,2025,5,22000.0
+Pomegranate,Punjab,2025,5,7750.0
+Pomegranate,Rajasthan,2025,5,9750.0
+Pomegranate,Uttar Pradesh,2025,5,8175.0
+Pomegranate,Uttrakhand,2025,5,5000.0
+Potato,Gujarat,2025,5,1620.0
+Potato,Haryana,2025,5,964.7058823529412
+Potato,Himachal Pradesh,2025,5,1285.0
+Potato,Jammu and Kashmir,2025,5,900.0
+Potato,Kerala,2025,5,3357.8947368421054
+Potato,Madhya Pradesh,2025,5,375.0
+Potato,Nagaland,2025,5,4100.0
+Potato,Odisha,2025,5,1700.0
+Potato,Punjab,2025,5,882.3529411764706
+Potato,Rajasthan,2025,5,1137.5
+Potato,Telangana,2025,5,2512.5
+Potato,Tripura,2025,5,2100.0
+Potato,Uttar Pradesh,2025,5,1088.0232558139535
+Potato,Uttrakhand,2025,5,1180.0
+Potato,West Bengal,2025,5,1417.7777777777778
+Pumpkin,Gujarat,2025,5,950.0
+Pumpkin,Haryana,2025,5,733.3333333333334
+Pumpkin,Himachal Pradesh,2025,5,1333.3333333333333
+Pumpkin,Jammu and Kashmir,2025,5,1650.0
+Pumpkin,Kerala,2025,5,1705.2631578947369
+Pumpkin,Nagaland,2025,5,4100.0
+Pumpkin,Odisha,2025,5,1339.2857142857142
+Pumpkin,Punjab,2025,5,850.0
+Pumpkin,Rajasthan,2025,5,675.0
+Pumpkin,Telangana,2025,5,1300.0
+Pumpkin,Tripura,2025,5,3300.0
+Pumpkin,Uttar Pradesh,2025,5,871.25
+Pumpkin,Uttrakhand,2025,5,525.0
+Pumpkin,West Bengal,2025,5,1450.0
+Raddish,Himachal Pradesh,2025,5,4266.666666666667
+Raddish,Jammu and Kashmir,2025,5,1750.0
+Raddish,Kerala,2025,5,2720.0
+Raddish,Punjab,2025,5,1500.0
+Raddish,Uttar Pradesh,2025,5,1220.0
+Raddish,Uttrakhand,2025,5,1550.0
+Rice,Odisha,2025,5,3750.0
+Rice,Tripura,2025,5,3837.5
+Rice,Uttar Pradesh,2025,5,3241.1111111111113
+Rice,Uttrakhand,2025,5,3391.0
+Rice,West Bengal,2025,5,4283.333333333333
+Ridgeguard(Tori),Gujarat,2025,5,4250.0
+Ridgeguard(Tori),Haryana,2025,5,1960.0
+Ridgeguard(Tori),Kerala,2025,5,4550.0
+Ridgeguard(Tori),Odisha,2025,5,2500.0
+Ridgeguard(Tori),Punjab,2025,5,1666.6666666666667
+Ridgeguard(Tori),Telangana,2025,5,3750.0
+Ridgeguard(Tori),Tripura,2025,5,5050.0
+Ridgeguard(Tori),Uttar Pradesh,2025,5,1532.5
+Ridgeguard(Tori),Uttrakhand,2025,5,1375.0
+Ridgeguard(Tori),West Bengal,2025,5,2600.0
+Round gourd,Jammu and Kashmir,2025,5,550.0
+Round gourd,Punjab,2025,5,1185.0
+"Sesamum(Sesame,Gingelly,Til)",Gujarat,2025,5,8276.25
+"Sesamum(Sesame,Gingelly,Til)",Rajasthan,2025,5,7500.0
+Snakeguard,Kerala,2025,5,3157.1428571428573
+Snakeguard,Telangana,2025,5,1800.0
+Snakeguard,Tripura,2025,5,3950.0
+Soanf,Gujarat,2025,5,7500.0
+Soanf,Rajasthan,2025,5,7250.0
+Soyabean,Gujarat,2025,5,3739.0
+Soyabean,Rajasthan,2025,5,4270.0
+Soyabean,Uttar Pradesh,2025,5,4100.0
+Spinach,Gujarat,2025,5,750.0
+Spinach,Haryana,2025,5,1260.0
+Spinach,Himachal Pradesh,2025,5,2850.0
+Spinach,Jammu and Kashmir,2025,5,1750.0
+Sponge gourd,Gujarat,2025,5,2000.0
+Sponge gourd,Haryana,2025,5,1550.0
+Sponge gourd,Himachal Pradesh,2025,5,2860.0
+Sponge gourd,Punjab,2025,5,2800.0
+Sponge gourd,Rajasthan,2025,5,2200.0
+Sponge gourd,Uttar Pradesh,2025,5,1220.0
+Squash(Chappal Kadoo),Himachal Pradesh,2025,5,1300.0
+Squash(Chappal Kadoo),Punjab,2025,5,850.0
+Surat Beans (Papadi),Gujarat,2025,5,7250.0
+Suva (Dill Seed),Gujarat,2025,5,6500.0
+Sweet Potato,Gujarat,2025,5,2150.0
+Sweet Potato,Kerala,2025,5,3650.0
+Sweet Potato,Telangana,2025,5,1800.0
+Sweet Pumpkin,Tripura,2025,5,1850.0
+Sweet Pumpkin,West Bengal,2025,5,1400.0
+Tamarind Fruit,Telangana,2025,5,10000.0
+Tapioca,Kerala,2025,5,3255.5555555555557
+Taramira,Rajasthan,2025,5,5218.0
+Tender Coconut,Haryana,2025,5,5000.0
+Tender Coconut,Kerala,2025,5,5000.0
+Tinda,Gujarat,2025,5,4250.0
+Tinda,Haryana,2025,5,1966.6666666666667
+Tinda,Himachal Pradesh,2025,5,2866.6666666666665
+Tinda,Punjab,2025,5,2422.222222222222
+Tinda,Rajasthan,2025,5,2900.0
+Tinda,Uttrakhand,2025,5,2225.0
+Tomato,Andhra Pradesh,2025,5,970.0
+Tomato,Gujarat,2025,5,1657.142857142857
+Tomato,Haryana,2025,5,861.5
+Tomato,Himachal Pradesh,2025,5,1422.2222222222222
+Tomato,Jammu and Kashmir,2025,5,1750.0
+Tomato,Kerala,2025,5,2530.0
+Tomato,Madhya Pradesh,2025,5,950.0
+Tomato,Odisha,2025,5,1877.0588235294117
+Tomato,Punjab,2025,5,1031.1764705882354
+Tomato,Rajasthan,2025,5,921.4285714285714
+Tomato,Telangana,2025,5,1100.0
+Tomato,Tripura,2025,5,5387.5
+Tomato,Uttar Pradesh,2025,5,872.5
+Tomato,Uttrakhand,2025,5,1225.0
+Tomato,West Bengal,2025,5,1833.3333333333333
+Turmeric,Andhra Pradesh,2025,5,6500.0
+Turmeric (raw),Gujarat,2025,5,9500.0
+Water Melon,Gujarat,2025,5,712.5
+Water Melon,Haryana,2025,5,750.0
+Water Melon,Himachal Pradesh,2025,5,1437.5
+Water Melon,Jammu and Kashmir,2025,5,1100.0
+Water Melon,Kerala,2025,5,1300.0
+Water Melon,Madhya Pradesh,2025,5,650.0
+Water Melon,Odisha,2025,5,1910.0
+Water Melon,Punjab,2025,5,891.1111111111111
+Water Melon,Rajasthan,2025,5,875.0
+Water Melon,Uttar Pradesh,2025,5,1024.0
+Water Melon,Uttrakhand,2025,5,1362.5
+Wheat,Gujarat,2025,5,2579.230769230769
+Wheat,Rajasthan,2025,5,2539.8333333333335
+Wheat,Uttar Pradesh,2025,5,2458.0
+Wheat,Uttrakhand,2025,5,2430.0
+Wheat,West Bengal,2025,5,2550.0
+White Peas,Uttar Pradesh,2025,5,3400.0
+Wood,Uttar Pradesh,2025,5,502.0
+Yam (Ratalu),Gujarat,2025,5,5750.0
+Yam (Ratalu),Haryana,2025,5,3200.0
+Yam (Ratalu),Telangana,2025,5,6500.0
